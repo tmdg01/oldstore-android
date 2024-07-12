@@ -1,4 +1,4 @@
-[RUSSIAN](https://github.com/tmdg01/oldstore-android/README.md) | [ENGLISH](https://github.com/tmdg01/oldstore-android/README-EN.md)
+[RUSSIAN](https://github.com/tmdg01/oldstore-android/blob/master/README.md) | [ENGLISH](https://github.com/tmdg01/oldstore-android/blob/master/README-EN.md)
 
 ![Logo](https://github.com/tmdg01/oldstore-android/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="server_url"
+        android:title="Инстанция"
+        android:summary="Введите IP адрес или домен хоста инстанции"
+        android:defaultValue="http://old-apps.xyz" />
+
+    <ListPreference
+        android:key="download_location"
+        android:title="Место сохранения"
+        android:summary="Выберите, где сохранять загруженные приложения"
+        android:entries="@array/download_locations"
+        android:entryValues="@array/download_location_values"
+        android:defaultValue="external" />
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_locations">
+        <item>Внутренняя память</item>
+        <item>SD-карта</item>
+    </string-array>
+    <string-array name="download_location_values">
+        <item>internal</item>
+        <item>external</item>
+    </string-array>
+</resources>
